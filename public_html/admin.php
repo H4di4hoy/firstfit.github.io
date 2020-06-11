@@ -8,6 +8,10 @@ $action= isset($_GET['action']) ? $_GET['action']: "";
 //If there is a user logged-in store their name in this variable for future use
 $username= isset($_SESSION['username']) ? $_SESSION['username']: "";
 
+if ( empty($username) ) {
+  header("Location: index.php");
+  exit();
+}
 
 $feedback;
 
@@ -363,7 +367,7 @@ $feedback;
     $pricingDetails= getRegistrationDetails(); //A list of different pricing levels
 
     require(TEMPLATE_PATH. "/admin/admin_manage.php");
-    
+
   }
 
 ?>
