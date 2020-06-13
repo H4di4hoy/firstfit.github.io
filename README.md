@@ -1,5 +1,6 @@
 # firstfit.github.io
 Fitness centre website is a collaboration project created during my third-level course at Griffith College in Dublin. 
+View live site on: https://knuth.griffith.ie/~s3013927/#
 
 Website can be used in the following ways:
 
@@ -17,3 +18,4 @@ Note: The website also provides the admin with a control panel which allows the 
 4. Modify subscription details such as fees of membership types
 5. Review pending testimonials before becoming public
 6. Perform real-time search on the list of classes available
+
