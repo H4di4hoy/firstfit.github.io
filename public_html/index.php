@@ -21,10 +21,8 @@ $conn= null;
       <!-- The following div is the container with jumbotron class applied.
       I have put a background image for this part using my CSS file -->
       <div class="jumbotron">
-        <!-- 'text-secondary' makes the text colour gray. -->
         <p class="h2 text-dark">Our gym is finished to the highest standard with a full range of Life fitness…</p>
-        <p class="text-secondary text-justify">…strength and conditioning machines from dual and single pulleys, lat pull-downs, chest and shoulder press machines. We also boast a large free weight room which includes 5 squat racks, a Smith Machine and huge selection of plates. Our expert coaches are always available to introduce and encourage you to use our facility to its maximum potential. BetterBody has the ultimate fitness experience at your disposal. Our unique programming will challenge and inspire you to get into great shape and feel healthy. On signing up for any of our long term packages for the gym we include PTs and a consultation, after your initial induction we follow up with progressions from your previous program. eventy years bringing floral arrangements to the city of Limerick.</p>
-        <!-- <img class="col-7" src="images/runner.png" alt="runner"> -->
+        <p class="text-secondary text-justify">…strength and conditioning machines from dual and single pulleys, lat pull-downs, chest and shoulder press machines. We also boast a large free weight room which includes 5 squat racks, a Smith Machine and huge selection of plates. Our expert coaches are always available to introduce and encourage you to use our facility to its maximum potential. FirstFit has the ultimate fitness experience at your disposal. Our unique programming will challenge and inspire you to get into great shape and feel healthy. On signing up for any of our long term packages for the gym we include PTs and a consultation, after your initial induction we follow up with progressions from your previous program.</p>
       </div>
 
 
