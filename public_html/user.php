@@ -94,7 +94,7 @@ $errorMessage; //Stores error messages if any errors occur
         $_SESSION['userID']= $userDetails['id'];
         $userID= $_SESSION['userID'];
 
-        if( empty($pursue) && empty($_GET['secondary']) ) { //If no initial requests
+        if( empty($pursue) ) { //If no initial requests
           require("index.php");
         }
         else {
@@ -254,7 +254,7 @@ if( isset($_GET['secondary']) ) { //Follows up with this action after sign up
   }
 
   /*This function is explicitly called to perform a secondary action after login
-  usually only needed when user requests class details after signing up*/ 
+  usually only needed when user requests class details after signing up*/
   function switchAction($action) {
 
     switch($action) {
