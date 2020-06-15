@@ -10,12 +10,12 @@ Website can be used in the following ways:
 4. Contact admin with a query via contact us page
 
 
-Note: The website also provides the admin with a control panel which allows the admin to:
+Note: The website also provides the admin with a control panel which allows:
 
-1. Edit the content of the feature boxes on the homepage 
-2. Read messages sent via the contact us form
-3. Create, update, or delete a class
-4. Modify subscription details such as fees of membership types
-5. Review pending testimonials before becoming public
-6. Perform real-time search on the list of classes available
+1. Editing the content of the feature boxes on the homepage 
+2. Reading messages sent via the contact us form
+3. Creating, updating, or deleting a class
+4. Modifying subscription details such as fees of membership types
+5. Reviewing pending testimonials before becoming public
+6. Performing real-time search on the list of available classes 
 
